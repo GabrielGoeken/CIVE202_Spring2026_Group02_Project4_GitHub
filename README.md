@@ -13,6 +13,6 @@ The purpose of this project is to evaluate the National Risk Index (NRI) develop
   
   [Annotated Code Document](CIVE202_Spring2026_Group02_Project4_ACD.docx)
   
-  [Engineering Time Sheet](CIVE202_Spring2026_Group02_Project4_Timesheet.xlsx)
+  [Engineering Time Sheet](CIVE202_Spring2026_Group2_Project4_Timesheet.xlsx)
 
   [Summary Report](CIVE202_Spring2026_Group02_Project4_Written_Report.docx)
