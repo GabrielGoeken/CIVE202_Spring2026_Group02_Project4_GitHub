@@ -9,7 +9,7 @@ The purpose of this project is to evaluate the National Risk Index (NRI) develop
   
   [Python Code](CIVE202_Spring2026_Group2_Project4_PythonCode.ipynb)
   
-  [Scope of Work](CIVE202_Spring2026_Group02_Project4_SOW(1).docx)
+  [Scope of Work](CIVE202_Spring2026_Group02_Project4_SOW1.docx)
   
   [Annotated Code Document](CIVE202_Spring2026_Group02_Project4_ACD.docx)
   
