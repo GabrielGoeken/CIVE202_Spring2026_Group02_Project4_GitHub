@@ -17,6 +17,6 @@ The purpose of this project is to evaluate the National Risk Index (NRI) develop
 
   [Summary Report](CIVE202_Spring2026_Group02_Project4_Written_Report.docx)
 
-  [Missouri SVI Data](Missouri.xlsx)
+  [Missouri SVI Data](Missouri.csv)
 
-  [California SVI Data](California.xlsx)
+  [California SVI Data](California.csv)
