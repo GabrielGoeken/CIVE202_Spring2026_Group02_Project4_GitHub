@@ -5,7 +5,7 @@ The purpose of this project is to evaluate the National Risk Index (NRI) develop
 
   This repository includes the following:
 
-  [Gantt Chart](CIVE202_Spring2026_Group02_Project4_GanttChart.xlsx)
+  [Gantt Chart](CIVE202_Spring2026_Group02_Project4_Gantt_Chart.xlsx)
   
   [Python Code](CIVE202_Spring2026_Group2_Project4_PythonCode.ipynb)
   
